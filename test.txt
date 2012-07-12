@@ -3,3 +3,5 @@ To jest testowy plik tekstowy.
 Zawiera kilka linijek tekstu.
 
 Jest doœæ sk¹py w treœæ, zróbmy coœ z tym.
+
+A ja sobie rêcznie dodam trochê nowej treœci, trololo.
