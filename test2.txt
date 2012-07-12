@@ -5,3 +5,7 @@ Jest w nim malo tesktu.
 Dodatkowa linijka tesktu.
 
 Nowy ficzer w pliku testowym.
+
+Pracuje dalej.
+
+Skoñczy³em.
