@@ -5,3 +5,9 @@ Jest w nim malo tesktu.
 Dodatkowa linijka tesktu.
 
 Szybki bugfix produkcyjny!!!
+
+Nowy ficzer w pliku testowym.
+
+Pracuje dalej.
+
+Skoñczy³em.
