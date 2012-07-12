@@ -1,3 +1,5 @@
 Nasz plik tesktowy!
 
 Jest w nim malo tesktu.
+
+Dodatkowa linijka tesktu.
